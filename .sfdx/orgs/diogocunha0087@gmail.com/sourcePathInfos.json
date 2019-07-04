@@ -1,0 +1,32 @@
+[
+    [
+        "C:\\sfdx_projects\\best-repo-ever\\force-app",
+        {
+            "state": "n",
+            "sourcePath": "C:\\sfdx_projects\\best-repo-ever\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1562267288952,
+            "changeTime": 1562267288952,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\sfdx_projects\\best-repo-ever",
+        {
+            "state": "n",
+            "sourcePath": "C:\\sfdx_projects\\best-repo-ever",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1562267288952,
+            "changeTime": 1562267288952,
+            "contentHash": "10292a3671a3adfd5edf7d0ecea8dceab01b7021",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
